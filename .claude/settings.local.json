@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright__browser_navigate",
+      "Bash(./run.sh:*)",
+      "Bash(curl -s http://127.0.0.1:8000)",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_take_screenshot",
+      "Bash(uv add:*)",
+      "Bash(uv run:*)"
+    ]
+  }
+}
