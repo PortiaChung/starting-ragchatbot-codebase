@@ -10,7 +10,9 @@
       "Bash(uv run:*)",
       "Bash(git rm:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m ':*)"
+      "Bash(git commit -m ':*)",
+      "Bash(git push:*)",
+      "Bash(git checkout:*)"
     ]
   }
 }
